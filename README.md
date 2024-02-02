@@ -1,11 +1,8 @@
 [![Header](https://github.com/NeVajnoKak/iOS-middle-project/blob/main/assets/header.png)](https://www.youtube.com/watch?v=HLHJFICvytI)
-<style>
-    h1 span {
-        font-size: 20px;
-    }
-</style>
+
 ##
-<h1 align="center">Hi there, I'm <a href="https://www.instagram.com/fifth_is_me/" target="_blank">Erke</a> <br><br><span style="font-size: 20px">Computer science developer from Kazakhstan 🇰🇿</span> </h1>
+<h1 align="center">Hi there, I'm <a href="https://www.instagram.com/fifth_is_me/" target="_blank">Erke</a></h1>
+<h3 align="center">Computer science developer from Kazakhstan 🇰🇿 </h3>
 <br>
 <br>
 <br>
