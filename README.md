@@ -27,3 +27,8 @@
 ![React](https://img.shields.io/badge/React-01060D?style=for-the-badge&logo=react&logoColor=#000000)
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-01060D?style=for-the-badge&logo=swift&logoColor=#000000)
 
+### Contact
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-01060D?style=for-the-badge&logo=linkedin&logoColor=#000000)](https://www.linkedin.com/in/nee-vajno-9241842b2/)
+[![Instagram](https://img.shields.io/badge/Instagram-01060D?style=for-the-badge&logo=instagram&logoColor=#000000)](https://www.instagram.com/fifth_is_me/)
+[![Telegram](https://img.shields.io/badge/Telegram-01060D?style=for-the-badge&logo=telegram&logoColor=#000000)](https://t.me/erkeeeeeeeeeeeeeeeeeeee)
+[![VKontakte](https://img.shields.io/badge/VKontakte-01060D?style=for-the-badge&logo=VK&logoColor=0D47A1)](https://vk.com/mierko)
