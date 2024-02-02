@@ -1,7 +1,7 @@
 [![Header](https://github.com/NeVajnoKak/iOS-middle-project/blob/main/assets/header.png)](https://www.youtube.com/watch?v=HLHJFICvytI)
 
 <h1 align="center">Hi there, I'm <a href="https://www.instagram.com/fifth_is_me/" target="_blank">Erke</a> 
-<img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
+
 <h3 align="center">Computer science developer from Kazakhstan 🇰🇿</h3>
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&lines=iOS+Developer)
